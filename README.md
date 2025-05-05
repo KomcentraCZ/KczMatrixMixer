@@ -1,5 +1,7 @@
 ROMAN'S NOTES:
 ==============
+DATE 250505:
+------------
 - stream app: vychazi z examplu
 https://docs.pipewire.org/tutorial4_8c-example.html , na tom jsem si
 rozjizdel prostredi a overoval jestli mi to jede;
